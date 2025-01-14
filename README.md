@@ -6,3 +6,6 @@
 - Individual modules that import Shape in inheritates from it.
 
 ```python
+Shape/
+├── __init__.py
+└── shape.py
