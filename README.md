@@ -5,7 +5,27 @@
 - A unique module inside of package Shape
 - Individual modules that import Shape in inheritates from it.
 
-```python
+## First way
+
+```
 Shape/
 ├── __init__.py
 └── shape.py
+```
+## Second way
+
+```
+Shape/
+├── __init__.py
+├── point.py
+├── line.py
+├── shape.py
+├── rectangle.py
+├── square.py
+├── triangle.py
+└── triangles/
+    ├── __init__.py
+    ├── isosceles.py
+    ├── equilateral.py
+    ├── scalene.py
+    └── tri_rectangle.py
