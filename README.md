@@ -29,3 +29,6 @@ Shape/
     ├── equilateral.py
     ├── scalene.py
     └── tri_rectangle.py
+```
+
+### Los 2 paquetes están adjuntos
