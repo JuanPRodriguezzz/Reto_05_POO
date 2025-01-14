@@ -1,4 +1,4 @@
-# Reto_04_POO
+# Reto_05_POO
 ### Juan Pablo Rodríguez Cruz
 
 ### 1. Create a package with all code of class Shape, this exersice should be conducted in two ways:
